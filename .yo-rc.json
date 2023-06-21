@@ -1,0 +1,14 @@
+{
+  "generator-ui5-app": {
+    "namespace": "tempapp",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.115.0",
+    "author": "ybarob",
+    "initrepo": true,
+    "appId": "tempapp",
+    "appURI": "tempapp",
+    "cdnDomain": "ui5.sap.com",
+    "defaultTheme": "sap_horizon",
+    "setupCompleted": true
+  }
+}
